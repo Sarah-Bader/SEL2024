@@ -27,3 +27,10 @@ choco install virtualbox -y
 
 # MySQL Workbench
 choco install mysql.workbench -y
+
+
+#update all
+Write-Host "update" -ForegroundColor Green
+choco upgrade all
+
+
