@@ -1,6 +1,6 @@
 # SEL2024
 ## Opdracht 1
-- **Vragen**
+- **Vragen - DEEL 1** 
 
   - De PowerShell-prompt toont de map waar we ons nu bevinden. Wat is de naam van deze directory?
    
@@ -21,6 +21,13 @@
        <img width="533" alt="2024-02-25" src="https://github.com/SarahBaderr/SEL2024/assets/160492937/12e6ac82-0541-46ae-b31a-ae7eb1391f85">
    
        <img width="431" alt="2024-02-25105242" src="https://github.com/SarahBaderr/SEL2024/assets/160492937/294713d9-fe7a-48c5-b24b-576e4de1b1e7">
+- **De Chocolatey package manager**
 
+    |**Taak**|**Commando**|
+    |--------|------------|
+    |Een lijst tonen van de software die nu geïnstalleerd is via Chocolatey|   |
+    |Alle packages die nu geïnstalleerd zijn bijwerken tot de laatste versie|  |
+    |Via de console een package opzoeken|   |
+    |Een geïnstalleerde applicatie verwijderen|   |
 
        
