@@ -25,9 +25,9 @@
 
     |**Taak**|**Commando**|
     |--------|------------|
-    |Een lijst tonen van de software die nu geïnstalleerd is via Chocolatey|   |
-    |Alle packages die nu geïnstalleerd zijn bijwerken tot de laatste versie|  |
-    |Via de console een package opzoeken|   |
-    |Een geïnstalleerde applicatie verwijderen|   |
+    |Een lijst tonen van de software die nu geïnstalleerd is via Chocolatey|  _choco list --local-only_ |
+    |Alle packages die nu geïnstalleerd zijn bijwerken tot de laatste versie|  _choco upgrade all_ |
+    |Via de console een package opzoeken|  _choco search <package_name>_ |
+    |Een geïnstalleerde applicatie verwijderen|  _choco uninstall <package_name>_ |
 
        
