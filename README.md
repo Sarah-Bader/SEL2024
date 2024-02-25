@@ -23,7 +23,7 @@
        <img width="431" alt="2024-02-25105242" src="https://github.com/SarahBaderr/SEL2024/assets/160492937/294713d9-fe7a-48c5-b24b-576e4de1b1e7">
 - **De Chocolatey package manager**
 
-    |<p style="text-align: center;">**Taak**</p>|<p style="text-align: center;">**Commando**</p>|
+    |**Taak**|**Commando**|
     |--------|------------|
     |Een lijst tonen van de software die nu geïnstalleerd is via Chocolatey|   |
     |Alle packages die nu geïnstalleerd zijn bijwerken tot de laatste versie|  |
