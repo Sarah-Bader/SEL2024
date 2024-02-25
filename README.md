@@ -1,6 +1,6 @@
 # SEL2024
 ## Opdracht 1
-- Vragen
+- **Vragen**
 
   - De PowerShell-prompt toont de map waar we ons nu bevinden. Wat is de naam van deze directory?
    
